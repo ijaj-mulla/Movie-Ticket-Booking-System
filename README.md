@@ -50,6 +50,3 @@ The **Movie Ticket Booking System** is a **console-based C++ application** that 
 
 ## 🤝 Contribution
 Feel free to contribute to this project! You can report issues, suggest improvements, or create pull requests.
-
-## 📜 License
-This project is **open-source** and available under the MIT License.
